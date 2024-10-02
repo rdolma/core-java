@@ -1,0 +1,5 @@
+Git add .
+Git commit -m ""
+Git pull origin develop
+Git push origin develop
+
